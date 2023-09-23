@@ -8,7 +8,7 @@ const Hero = () => {
 
          <div className='max-w-[480px] '>
 
-           <h1 className='md:text-[48px] text-[38px] font-bold mb-6 leading-tight'>Be The Fastest In <br className='sm:block hidden'/> Delivery Your  <span className='text-[#FFCB45]'>Food</span></h1>
+           <h1 className='md:text-[48px] text-[38px] font-bold mb-6 leading-tight'>Be The Fastest In <br className='sm:block hidden'/> Delivering Your  <span className='text-[#FFCB45]'>Food</span></h1>
 
           <div className='max-w-[370px] font-normal'>
            <p className='text-[18px] mb-6  font'>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet</p>
